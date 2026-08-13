@@ -1,6 +1,6 @@
 # Salut, je suis Moussa Diallo 
 
-**Ingénieur en Mathématiques Appliquées** (Master MApI3, Université Toulouse III), diplômé en Décembre 2026.
+**Ingénieur en Mathématiques Appliquées** (Master MApI3, Université Toulouse III), diplômé en Octobre 2026.
 Je transforme des problèmes concrets en **modèles quantitatifs fiables** : data science, machine learning, modélisation et calcul scientifique.
 
 🔭 En recherche d'un **CDI / CDD / freelance** en Data Science, IA, modélisation et calcul scientifique — partout en France.
