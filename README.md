@@ -87,14 +87,6 @@
 
 ---
 
-### 📊 Mes statistiques GitHub
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dialloalassane052001-ui&show_icons=true&hide_border=true" alt="Stats GitHub"/>
-</p>
-
----
-
 ### 📫 Me contacter
 
 - 🌐 **Portfolio** : https://dialloalassane052001-ui.github.io/portfolio/
