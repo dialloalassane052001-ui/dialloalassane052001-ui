@@ -90,8 +90,7 @@
 ### 📊 Mes statistiques GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dialloalassane052001-ui&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Stats GitHub"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dialloalassane052001-ui&layout=compact&theme=default&hide_border=true" alt="Langages les plus utilisés"/>
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dialloalassane052001-ui&show_icons=true&hide_border=true" alt="Stats GitHub"/>
 </p>
 
 ---
