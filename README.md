@@ -60,27 +60,6 @@ Projet consacré à la visualisation du fonctionnement des réseaux de neurones,
 
 <img src="./assets/skills.svg" alt="Compétences techniques en programmation, Machine Learning, Deep Learning et analyse de données" width="100%"/>
 
-**Programmation et analyse de données**
-
-Python · NumPy · pandas · SQL
-
-**Machine Learning**
-
-scikit-learn · XGBoost · Random Forest · Modélisation prédictive
-
-**Deep Learning et intelligence artificielle**
-
-PyTorch · CNN · MLP · ResNet18 · Grad-CAM · XAI
-
-**Visualisation**
-
-Matplotlib · Visualisation de données · Analyse des résultats
-
-**Outils**
-
-Git · GitHub · Jupyter · Linux
-
----
 
 ## Portfolio et contact
 
