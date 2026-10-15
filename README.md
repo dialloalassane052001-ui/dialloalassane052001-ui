@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Moussa Diallo — Data Scientist et Machine Learning Engineer" width="100%"/>
+<img src="./assets/header.svg" alt="Moussa Diallo" width="100%"/>
 
-<img src="./assets/typing.svg" alt="Master 2 MAPI3 — Mathématiques appliquées, Data Science et Intelligence Artificielle"/>
+<img src="./assets/typing.svg" alt="Mathématiques appliquées, Data Science et Intelligence Artificielle"/>
 
 <br/>
 
@@ -18,57 +18,47 @@
 
 Titulaire d'un Master 2 MAPI3 (Mathématiques appliquées pour l'ingénierie, l'industrie et l'innovation) de l'Université Toulouse III – Paul Sabatier, je m'intéresse à la Data Science, au Machine Learning et au Deep Learning.
 
-Mes expériences en recherche appliquée m'ont permis de travailler sur des problématiques concrètes, de la préparation des données à l'expérimentation de modèles d'intelligence artificielle, en passant par l'analyse et la visualisation des résultats.
+Mes expériences en recherche appliquée m'ont permis de travailler sur des données scientifiques, des modèles prédictifs et des méthodes d'analyse et de visualisation des réseaux de neurones.
 
-Je peux contribuer à des projets nécessitant :
-
-- La préparation, le nettoyage et l'analyse de données.
-- Le développement et l'évaluation de modèles de Machine Learning.
-- L'utilisation de réseaux de neurones pour l'analyse de données et le traitement d'images.
-- La visualisation et l'interprétation des résultats des modèles.
-- L'exploration de méthodes d'intelligence artificielle explicable (XAI).
-
-Je souhaite aujourd'hui mettre mes compétences en mathématiques appliquées et en intelligence artificielle au service de projets concrets, au sein d'une équipe technique ou de recherche.
-
-Je recherche un premier poste en **Data Science, Machine Learning ou Intelligence Artificielle**, en CDI ou CDD en France.
+J'accorde une importance particulière à la qualité des données, à l'évaluation des modèles et à la compréhension de leurs résultats.
 
 ## Expérience
 
-### Data Scientist stagiaire — L2MGC, CY Cergy Paris Université
-*Avril – juillet 2026*
+**L2MGC – CY Cergy Paris Université**  
+*Stage en Data Science | Avril – juillet 2026*
 
-Projet de prédiction des propriétés mécaniques des matériaux cimentaires à partir de données scientifiques et d'images de microstructure.
+- Préparation et structuration de données scientifiques issues d'articles de recherche.
+- Travail sur un corpus de 388 articles et environ 2 297 formulations de matériaux cimentaires.
+- Expérimentation et comparaison de modèles de Machine Learning et de Deep Learning pour la prédiction de propriétés mécaniques.
+- Analyse de données et d'images de microstructure.
 
-- Constitution et structuration d'un corpus de 388 articles scientifiques et d'environ 2 297 formulations.
-- Préparation des données et traitement des valeurs manquantes.
-- Expérimentation et comparaison de modèles de Machine Learning et de Deep Learning.
-- Évaluation de modèles de prédiction, dont XGBoost, avec un R² de 0,76 dans le cadre de l'évaluation réalisée.
-- Exploration de méthodes de traitement d'images et de visualisation pour analyser les données et les résultats.
+**IRIT – Université Toulouse III – Paul Sabatier**  
+*Stage en recherche appliquée | Mai – août 2025*
 
-### Stagiaire R&D — Visualisation et explicabilité des réseaux de neurones
-*IRIT, Université Toulouse III – Paul Sabatier | Mai – août 2025*
-
-Projet consacré à la visualisation du fonctionnement des réseaux de neurones, du perceptron aux réseaux convolutifs, puis à l'exploration de méthodes d'explicabilité appliquées à ResNet18.
-
-- Développement d'outils Python pour visualiser les frontières de décision et l'évolution de l'apprentissage.
+- Développement d'outils Python pour visualiser le fonctionnement des réseaux de neurones.
 - Expérimentation avec NumPy, scikit-learn et PyTorch.
-- Visualisation des filtres convolutifs et des cartes d'activation des CNN.
-- Exploration de Grad-CAM pour examiner les régions d'une image contribuant aux prédictions.
-- Étude de méthodes d'analyse de l'importance des filtres et création de visualisations pour examiner le comportement du modèle.
+- Visualisation des frontières de décision, des filtres convolutifs et des cartes d'activation.
+- Exploration de Grad-CAM et de méthodes d'analyse de l'importance des filtres pour étudier les prédictions de ResNet18.
 
-## Compétences techniques
+## Compétences
 
-<img src="./assets/skills.svg" alt="Compétences techniques en programmation, Machine Learning, Deep Learning et analyse de données" width="100%"/>
+**Programmation et analyse de données**  
+Python · NumPy · pandas · SQL
 
+**Machine Learning**  
+scikit-learn · XGBoost · Random Forest · Modélisation prédictive
 
-## Portfolio et contact
+**Deep Learning**  
+PyTorch · CNN · MLP · ResNet18 · Grad-CAM · Intelligence artificielle explicable (XAI)
 
-Retrouvez mes projets et mes travaux sur mon portfolio et GitHub.
+**Visualisation et outils**  
+Matplotlib · Git · GitHub · Jupyter
 
-| | |
-|:---|:---|
-| **Portfolio** | [dialloalassane052001-ui.github.io/portfolio](https://dialloalassane052001-ui.github.io/portfolio/) |
-| **GitHub** | [github.com/dialloalassane052001-ui](https://github.com/dialloalassane052001-ui) |
-| **LinkedIn** | [linkedin.com/in/moussa-diallo-b203473a2](https://www.linkedin.com/in/moussa-diallo-b203473a2/) |
-| **Email** | [diallomoussa052001@gmail.com](mailto:diallomoussa052001@gmail.com) |
-| **Téléphone** | 06 65 78 47 63 |
+---
+
+## Liens
+
+- **Portfolio :** [Consulter mes projets](https://dialloalassane052001-ui.github.io/portfolio/)
+- **GitHub :** [Voir mes dépôts](https://github.com/dialloalassane052001-ui)
+- **LinkedIn :** [Consulter mon profil](https://www.linkedin.com/in/moussa-diallo-b203473a2/)
+- **Email :** [diallomoussa052001@gmail.com](mailto:diallomoussa052001@gmail.com)
