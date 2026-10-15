@@ -4,7 +4,7 @@
 
 | Diplôme | Établissement | Période |
 |:---|:---|:---:|
-| **Master 2 MAPI3** — Mathématiques appliquées pour l'ingénierie, l'industrie et l'innovation | Université Toulouse III — Paul Sabatier | 2024 – 2026 |
+| **Master 2 MAPI3** — Mathématiques appliquées pour l'ingénierie, l'industrie et l'innovation | Université de  Toulouse  | 2025 – 2026 |
 
 *Machine Learning · Big Data · HPC · Optimisation · Simulation numérique · Calcul scientifique · Statistiques avancées*
 
