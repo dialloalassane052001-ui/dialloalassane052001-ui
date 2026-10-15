@@ -9,7 +9,7 @@ J'accorde une importance particulière à la qualité des données, à l'évalua
 ## Expérience
 
 **L2MGC – CY Cergy Paris Université**  
-*Stage en Data Science | Avril – juillet 2026*
+*Stage en Data Scientist | Avril – juillet 2026*
 
 - Préparation et structuration de données scientifiques issues d'articles de recherche.
 - Travail sur un corpus de 388 articles et environ 2 297 formulations de matériaux cimentaires.
