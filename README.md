@@ -1,5 +1,3 @@
-<div align="center">
-
 ## À propos
 
 Titulaire d'un Master 2 MAPI3 (Mathématiques appliquées pour l'ingénierie, l'industrie et l'innovation) de l'Université Toulouse III – Paul Sabatier, je m'intéresse à la Data Science, au Machine Learning et au Deep Learning.
