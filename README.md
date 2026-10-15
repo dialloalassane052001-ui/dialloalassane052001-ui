@@ -1,35 +1,3 @@
-<div align="center">
-
-<!-- BANNIÈRE ANIMÉE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Moussa%20Diallo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Python%20%7C%20ML%20%26%20Deep%20Learning&descAlignY=58&descSize=18" width="100%"/>
-
-<!-- TYPING ANIMÉ -->
-<a href="https://github.com/dialloalassane052001-ui">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning;PyTorch+%C2%B7+scikit-learn+%C2%B7+XGBoost;Grad-CAM+%C2%B7+t-SNE+%C2%B7+XAI;Du+nettoyage+des+donn%C3%A9es+%C3%A0+l%27%C3%A9valuation" alt="Typing SVG" />
-</a>
-
-<br>
-
-<!-- BADGES DE CONTACT -->
-<a href="https://dialloalassane052001-ui.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/moussa-diallo-b203473a2/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:diallomoussa052001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<!-- VISITEURS -->
-<img src="https://komarev.com/ghpvc/?username=dialloalassane052001-ui&label=Visiteurs&color=6366f1&style=for-the-badge" />
-
-</div>
-
----
-
 ## 🎓 Formation
 
 <div align="center">
