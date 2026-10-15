@@ -1,19 +1,5 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Moussa Diallo" width="100%"/>
-
-<img src="./assets/typing.svg" alt="Mathématiques appliquées, Data Science et Intelligence Artificielle"/>
-
-<br/>
-
-<a href="https://dialloalassane052001-ui.github.io/portfolio/"><img src="./assets/btn-portfolio.svg" alt="Portfolio" height="46"/></a>
-<a href="https://www.linkedin.com/in/moussa-diallo-b203473a2/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="46"/></a>
-<a href="mailto:diallomoussa052001@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="46"/></a>
-
-</div>
-
----
-
 ## À propos
 
 Titulaire d'un Master 2 MAPI3 (Mathématiques appliquées pour l'ingénierie, l'industrie et l'innovation) de l'Université Toulouse III – Paul Sabatier, je m'intéresse à la Data Science, au Machine Learning et au Deep Learning.
